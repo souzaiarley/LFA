@@ -1,5 +1,6 @@
 from glc import GLC
 
+# L = Linguagem formada por {a,b,c} com pelo menos um a e pelo menos um b
 
 def main():
     V = {'S', 'A'}
